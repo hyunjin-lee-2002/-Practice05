@@ -12,7 +12,7 @@ public class CConverter {
         return won / rate;
     }
 
-    public static double toKWR(double dollar){
+    public static double toKRW(double dollar){
         return dollar * rate;
     }
     
